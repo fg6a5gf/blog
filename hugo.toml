@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = "fg6a5g's blog"
+theme = 'nostyleplease'
